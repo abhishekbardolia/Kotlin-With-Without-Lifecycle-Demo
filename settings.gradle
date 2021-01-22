@@ -1,0 +1,3 @@
+include ':kotlin-without-lifecycle-demo'
+include ':app'
+rootProject.name = "Kotlin-LifeCycle-Demo"
